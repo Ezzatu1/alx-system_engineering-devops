@@ -1,2 +1,2 @@
 #!/bin/bash
-head -p iacta i tail-1
+head -p iacta| tail-1
